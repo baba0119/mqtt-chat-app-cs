@@ -1,7 +1,7 @@
 # mqtt-chat-app-cs
 
 ## 開発環境
----
+
 ### フロントエンド
 - TypeScript
 - next.js(react)
@@ -20,7 +20,6 @@
 <br>
 
 ## mosquitto動作確認
----
 
 <br>
 
@@ -49,7 +48,6 @@ mosquitto_pub -d -t TOPICNAME -m "message"
 <br>
 
 ## 参考文献
----
-<br>
+
 WindowsでMQTT (mosquitto) | Program Resource<br>
 https://programresource.net/2020/03/28/3204.html
